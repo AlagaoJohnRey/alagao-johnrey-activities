@@ -1,0 +1,28 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(111, 111, 159);
+}
+h1 {
+    font-size: 40px;
+    color: rgb(28, 177, 115);
+}
+
+label {
+    background-color: rgb(88, 66, 167);
+}
+
+#userlabel {
+    font-size: 20px;
+}
+
+#passlabel {
+    font-size: 20px;
+}
+
+.buttonclass{
+    color: brown;
+}
+
+.labelclass {
+    color: violet;
+}
